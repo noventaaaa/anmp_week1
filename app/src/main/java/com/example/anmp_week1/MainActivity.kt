@@ -10,4 +10,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     //halo ini trial github
+
+    //ini siapa ya
+
+    val hadiranmp;
 }
